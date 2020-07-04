@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Erebus
 
-You can use the [editor on GitHub](https://github.com/jaredjones103/69/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Information mombojombo we help and stuff.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Adding more text because idk what to say.
 
-### Markdown
+### Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pretty much nothing
 
 ```markdown
-Syntax highlighted code block
+Cool dark box looking thing.
 
-# Header 1
-## Header 2
-### Header 3
+Website is static btw.
 
-- Bulleted
-- List
+Maybe for a project website it would not be too bad.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+More text ignore it.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Different Ideas
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaredjones103/69/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Here is somre more pointless information.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. Company contact info.
+(random numbers) and (random email)
